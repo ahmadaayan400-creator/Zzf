@@ -3014,6 +3014,10 @@ end
 --==================================================
 -- P11 : VOIDOUT
 --==================================================
+
+
+btn("MULTI FLING 👺🗿", P11, function() loadstring(game:HttpGet("https://pastefy.app/QmuTt7Rf/raw"))() end)
+
 btn("FAKEOUT 1 🌚", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/67KEqzjv"))() end)
 
 btn("FAKEOUT 2 🗿", P11, function() loadstring(game:HttpGet("https://pastebin.com/raw/meJYGz4a"))() end)
@@ -3066,6 +3070,9 @@ btn("🎵 DJ PLAYER",P7,function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Music-/refs/heads/main/Aayan_Music_System.lua"))()end)
 
 
+btn("AAYAN BANG(JERK💦)",P6, function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/AAYAN-BANG-/refs/heads/main/deobfuscated.lua%20(17).txt"))()end)
+
 btn("BACK BANG 🍑",P6,function()
 local message = "SCRIPT BY " .. playerName
     .. " -----[ BACK BANG ]----- "
@@ -3106,6 +3113,10 @@ if channel then
 		end
 		
 loadstring(game:HttpGet("https://pastefy.app/cVCW0R18/raw"))()end)
+btn("MINI BANG 😼💎",P6, function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadaayan400-creator/Aa/main/Copy%20of%20AAYAN_GREEN_jekwk3THEME-2.lua"))()end)
+
+
 
 btn("BANGER 1💀", P6, function() 
 local message = "SCRIPT BY " .. playerName
@@ -3194,6 +3205,10 @@ if channel then
 		end		
 		
 loadstring(game:HttpGet("https://pastebin.com/raw/BHYtZjgL"))() end)
+btn("TXR BANGER 👀💗",P6, function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yelelode/UNO/refs/heads/main/Source.lua2"))()end)
+
+
 btn("0 DELAY BANG 💥🕷️", P6, function() 
 	
 		
