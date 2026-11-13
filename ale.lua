@@ -3279,6 +3279,10 @@ if channel then
 		
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ririantiskid/troll/refs/heads/main/troll"))() end)
 
+btn("FE TROLL 🥔", P6, function() 
+	
+		
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3LD4D0/FE-TROLLING-PLAYER-R6-R15/6eff8792afed57458d5114478b453a6f6bce5799/Fe%20trolling%20Player%20R6%20AND%20R15"))() end)
 
 --==================================================
 -- P14 : ALPHA EMPIRE
